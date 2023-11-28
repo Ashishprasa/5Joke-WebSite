@@ -14,8 +14,8 @@ function App() {
 
   return (
     <>
-    <h1>Most Famous Joks 😏</h1>
-    <h3>Joks: {date.length}🫡</h3>
+    <h1>Most Famous Joks 👌</h1>
+    <h2>Joks: {date.length}🫡</h2>
     {date.map((jock)=>(
       <div key={jock.id}>
          
