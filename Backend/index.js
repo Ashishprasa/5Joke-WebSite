@@ -4,15 +4,15 @@ const app = express();
 
 const port = 3000;
 const jock = [
-  { id: 1, title: "this is First Jock 🍕", contest: "I am the First" },
+  { id: 1, title: "This is First Joke 🍕", contest: "I am the First" },
 
-  { id: 2, title: "Second Jock 🧨", contest: "I am a Jock" },
+  { id: 2, title: "Second Joke 🧨", contest: "I am a Jock" },
 
-  { id: 3, title: "third Jock 🚑", contest: "I am a Jock" },
+  { id: 3, title: "Third Joke 🚑", contest: "I am a Jock" },
 
-  { id: 4, title: "Forth Jock 🛺", contest: "I am a Jock" },
+  { id: 4, title: "Forth Joke 🛺", contest: "I am a Jock" },
 
-  { id: 5, title: "Fifth Jock 🎃", contest: "I am the last one Booya!" },
+  { id: 5, title: "Fifth Joke 🎃", contest: "I am the last one Booya!" },
 ];
 
 // app.get('/' , (req,res) =>{
