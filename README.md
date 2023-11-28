@@ -36,7 +36,10 @@ npm install
 ```bash
 npm run start
 ```
-
+1.  Open a new terminal window.
+2.  Navigate to the `Frontend` folder.
+3.  Install additional dependencies:
+   
 ## Frontend Setup
 
 1. Navigate to the `Frontend` folder:
